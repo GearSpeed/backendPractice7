@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Omar",
+    "age": "2024",
+    "sex": "H",
+    "active": true
+  },
+  {
+    "name": "Isaias",
+    "age": "2024",
+    "sex": "H",
+    "active": true
+  }
+]
